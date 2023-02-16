@@ -713,6 +713,10 @@ form h1 {
     cursor: pointer;
 }
 
+.contact i:first-child{
+    padding: 10px 13px;
+}
+
 .contact i:hover {
     background-color: var(--main_color);
 }
